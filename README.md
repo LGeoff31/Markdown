@@ -1,2 +1,5 @@
 # Markdown
-Learning the in's and out's of writing markdown.
+
+# H1 text is creaed using a single hashtag
+## H2 text is created using a double hashtag
+### And so on...
