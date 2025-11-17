@@ -6,4 +6,4 @@
 
 A paragraph tag doesn't require any hashtags.
 
-** Bolding text requires two surrounding asteriks on both sides **
+**Bolding text requires two surrounding asteriks on both sides**
